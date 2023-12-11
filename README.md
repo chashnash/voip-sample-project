@@ -19,15 +19,15 @@ All the traffic coming to Kamailio will be routed to Asterisk via port 5070. The
 
 
 # Versions:
-esxi 8.0
-Debian 10 buster
-Kamailio 5.6.5
-Asterisk 18.20.0
-Microsip and 3CX Softphones on windows10
+esxi 8.0 <br>
+Debian 10 buster<br>
+Kamailio 5.6.5<br>
+Asterisk 18.20.0<br>
+Microsip and 3CX Softphones on windows10<br>
 
 # Scenario and sample case:
 
-<ins>User registration:</ins>
+<ins>User registration:</ins> <br>
 When a user tries to register at 172.17.0.52: 5060, the request reaches first to Kamailio, then the traffic is forwarded to Asterisk via port 5070. 
 sngrep output of Call flow for User-1 registration is shown below.
 

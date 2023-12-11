@@ -1,6 +1,5 @@
 # voip-sample-project
-This is the sample project to show a test call
-test call case in kamailio 
+This is the sample project to show an internal call case in kamailio-Asterisk setup.
 
 
 # Project description: 

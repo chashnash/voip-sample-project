@@ -1,4 +1,4 @@
-# voip-sample-project
+# VoIp-sample-project
 This is the sample project to show an internal call case in kamailio-Asterisk setup.
 
 

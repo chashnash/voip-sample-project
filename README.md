@@ -34,7 +34,7 @@ sngrep output of Call flow for User-1 registration is shown below.
 
 <ins>Call scenario:</ins>
 
-User-1 makes a call to User-2 by dialing the extension 1002. User 1 sends INVITE message to Kamailio SIP  proxy server. As per the routing logic configured in kamailio.cfg , the INVITE header is forwarded to an Asterisk via port 5070. As Kamailio is the SIP proxy server, it sends 100 trying to the User-1 and the further SIP messages are handled among User, Kamailio and Asterisk. Please find the attached Wireshark traces in the files
-Trace from Kamailio server:  call-kamailio.pcap 
+User-1 makes a call to User-2 by dialing the extension 1002. User 1 sends INVITE message to Kamailio SIP  proxy server. As per the routing logic configured in kamailio.cfg , the INVITE header is forwarded to an Asterisk via port 5070. As Kamailio is the SIP proxy server, it sends 100 trying to the User-1 and the further SIP messages are handled among User, Kamailio and Asterisk. Please find the attached Wireshark traces in the files. <br>
+Trace from Kamailio server:  call-kamailio.pcap <br>
 Trace from softphone: call-clients.pcapng
 

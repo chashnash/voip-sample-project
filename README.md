@@ -1,5 +1,5 @@
 # VoIP-sample-project
-This is the sample project to show an internal call case in kamailio-Asterisk setup.
+This is the sample project to demonstrate an opensource VoIP System in Kamailio-Asterisk setup, built from scratch.
 
 
 # Project description: 
